@@ -7,5 +7,5 @@ export default defineConfig({
       host: '0.0.0.0',
     },
     plugins: [react()],
-    base: '/video-transcript-sync-player/',
+    base: '/video-transcript-player/',
 });
