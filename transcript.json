@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "startTime": 0,
+    "endTime": 7.3,
+    "text": "今の時期は秋に収穫された大きくてりっぱなジャガイモが店頭に並びます。",
+    "subtext": "Around this time of year, large and splendid potatoes harvested in the fall line the store shelves."
+  },
+  {
+    "id": 2,
+    "startTime": 7.3,
+    "endTime": 15.7,
+    "text": "ジャガイモを買ってからしばらく立って芽が出たり皮が緑色になっていたという経験はありませんか？",
+    "subtext": "Have you ever had the experience of buying potatoes, and after a while, they sprouted or their skin turned green?"
+  },
+  {
+    "id": 3,
+    "startTime": 15.7,
+    "endTime": 20,
+    "text": "この状態になってしまったジャガイモは食べられないのでしょうか？",
+    "subtext": "Are potatoes in this condition inedible?"
+  },
+  {
+    "id": 4,
+    "startTime": 20,
+    "endTime": 31.5,
+    "text": "ジャガイモは「日光」や「室内灯」など光に当たると皮が緑色に変化する性質があり、暖かい室内だと芽が出ることもあります。",
+    "subtext": "Potatoes have a tendency to turn green when exposed to light (sunlight or indoor lighting), they also tend to sprout when stored in a warm area."
+  },
+  {
+    "id": 5,
+    "startTime": 31.5,
+    "endTime": 41.5,
+    "text": "この緑色の部分や芽、傷がついた部分には「ソラニン」や「チャコニン」という天然の毒素が生成されていて、",
+    "subtext": "In these green areas, sprouts, and any damaged parts, natural toxins called 'solanine' and 'chaconine' are produced,"
+  },
+  {
+    "id": 6,
+    "startTime": 41.6,
+    "endTime": 48.6,
+    "text": "食べると下痢や腹痛、吐き気や嘔吐、頭痛を発症することがあります。",
+    "subtext": "and eating them can cause diarrhea, stomach pain, nausea, vomiting, and headaches."
+  },
+  {
+    "id": 7,
+    "startTime": 48.6,
+    "endTime": 56.1,
+    "text": "体重５０ｋｇの大人では、ソラニンやチャコニンを５０ｍｇ摂取すると症状が現れるそうです。",
+    "subtext": "For an adult weighing 50 kg, symptoms are said to appear if 50 mg of solanine or chaconine is ingested."
+  },
+  {
+    "id": 8,
+    "startTime": 56.1,
+    "endTime": 65.5,
+    "text": "実際に皮が緑色になったり、芽の出た１００ｇのジャガイモにはどのくらいソラニンやチャコニンが含まれているのか？",
+    "subtext": "How much solanine or chaconine is actually in 100g of potatoes that have green skin or have sprouted?"
+  },
+  {
+    "id": 9,
+    "startTime": 65.5,
+    "endTime": 68.3,
+    "text": "調査を行った結果がこちらです。",
+    "subtext": "Here are the results of the investigation :"
+  },
+  {
+    "id": 10,
+    "startTime": 68.3,
+    "endTime": 74,
+    "text": "最も高い数値になったのは芽の部分で、次に皮の部分でした。",
+    "subtext": "The highest levels were in the sprouts, followed by the skin."
+  },
+  {
+    "id": 11,
+    "startTime": 74,
+    "endTime": 80.5,
+    "text": "この結果からソラニンとチャコニンはほとんどが芽と皮に集中していて、",
+    "subtext": "From these results, most of the solanine and chaconine are concentrated in the sprouts and the skin,"
+  },
+  {
+    "id": 12,
+    "startTime": 80.5,
+    "endTime": 88.6,
+    "text": "芽と皮を取り除いた可食部はわずか検出された程度なので食べても問題ないことがわかりました。",
+    "subtext": "so that after their removal the edible part has only trace amounts detected, making it safe to eat."
+  },
+  {
+    "id": 13,
+    "startTime": 88.6,
+    "endTime": 95.8,
+    "text": "数ｍｍ程度の芽なら、芽の根本からえぐるように周辺まで取り除きましょう。",
+    "subtext": "For sprouts that are only a few millimeters, scoop them out from the base, including the surrounding area."
+  },
+  {
+    "id": 14,
+    "startTime": 95.8,
+    "endTime": 100.5,
+    "text": "緑色の皮は厚めにむくなどの処理をするようにしてください。",
+    "subtext": "Please be sure to thickly peel the green skin off."
+  },
+  {
+    "id": 15,
+    "startTime": 100.5,
+    "endTime": 108.8,
+    "text": "大きく芽が出たり、緑色が濃い、緑色の部分が多いものについては食べないようにしてください。",
+    "subtext": "Do not eat potatoes that have large sprouts, a dark green color, or large green areas."
+  },
+  {
+    "id": 16,
+    "startTime": 108.8,
+    "endTime": 113,
+    "text": "ジャガイモを上手に保存して、美味しくいただきましょう。",
+    "subtext": "Store your potatoes properly and enjoy them."
+  },
+  {
+    "id": 17,
+    "startTime": 113,
+    "endTime": 126,
+    "text": "今回のご紹介した内容はウェザーニュースのアプリ、お天気ニュースからもご確認いただけます。",
+    "subtext": "You can also check the content introduced today on the Weathernews app or our website."
+  }
+]
